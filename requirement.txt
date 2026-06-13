@@ -1,0 +1,5 @@
+json
+sqlite3
+uuid
+collections
+flask
